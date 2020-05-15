@@ -161,7 +161,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Project1\Project1\Project1.vcxproj">
+    <ProjectReference Include="..\Project1\Project1\Project1.vcxproj">
       <Project>{aac38a06-5257-4b0f-9cf6-41b399981895}</Project>
     </ProjectReference>
   </ItemGroup>
